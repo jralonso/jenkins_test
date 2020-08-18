@@ -1,7 +1,7 @@
 pipeline {
-  agent {
-    label('default')
-  }
+  // agent {
+  //   label('default')
+  // }
 
   options {
     disableConcurrentBuilds()
